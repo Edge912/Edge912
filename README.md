@@ -2,7 +2,7 @@ Olá! Meu nomne é Eduardo
   
   - 📚 Prioridade em programação com Python 
   - 👨‍💻 Meu foco é Data Analysis e Back-end Development
-  - 📩 Email para contato: eduardo.nho@hotmail.com
+  - 📩 Email principal para contato: eduardo.nho@hotmail.com
    
 <div>
   <a href="https://github.com/Edge912"/>
@@ -23,6 +23,7 @@ Olá! Meu nomne é Eduardo
 <div> 
   <a href="www.linkedin.com/in/eduardo-cozer-gnoatto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:ednhoato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eduardo.nho@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"target="_blank"></a>
 </div>
 
 <div>
